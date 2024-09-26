@@ -1,0 +1,8 @@
+{"tips": 
+    {
+        "index": ["./pickle_data/index_tip_17_05_24_1/", "./pickle_data/index_tip_2024-05-17-16-54-09/", "./pickle_data/index_tip_17_05_24_2/", "./pickle_data/index_tip_2024-05-22-08-28-24/", "./pickle_data/index_tip_07_05_24_2/", "./pickle_data/index_tip_07_05_24_1/"],
+        "middle": ["./pickle_data/middle_tip_2024-05-17-17-13-23/", "./pickle_data/middle_tip_2024-05-22-08-31-18/", "./pickle_data/middle_tip_2024-05-21-12-18-27/", "./pickle_data/middle_tip_07_05_24_1/", "./pickle_data/middle_tip_07_05_24_2/", "./pickle_data/middle_tip_2024-05-21-12-14-09/"],
+        "ring": ["./pickle_data/ring_tip_07_05_24_2/", "./pickle_data/ring_tip_2024-05-22-08-33-52/", "./pickle_data/ring_tip_2024-05-21-16-46-14/", "./pickle_data/ring_tip_2024-05-21-16-44-25/", "./pickle_data/ring_tip_2024-05-21-16-42-10/", "./pickle_data/ring_tip_07_05_24_1/"], 
+        "thumb": []
+    }
+}
